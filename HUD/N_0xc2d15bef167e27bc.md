@@ -1,11 +1,9 @@
 ---
 ns: HUD
 ---
-## _0xC2D15BEF167E27BC
+## _SHOW_MP_WALLET
 
 ```c
 // 0xC2D15BEF167E27BC 0xF4F3C796
-void _0xC2D15BEF167E27BC();
+void _SHOW_MP_WALLET();
 ```
-
-
